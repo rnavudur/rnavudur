@@ -15,3 +15,7 @@ Java | Python | C | C++ | SQL | HTML | CSS | JavaScript | Full Stack Web Develop
 
 ## 🌟 Visitors
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Rishitha2811.Rishitha2811)
+
+## 👩🏻‍💻</> Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
