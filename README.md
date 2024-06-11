@@ -1,5 +1,7 @@
+<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+
 <div align="center">
-  <h1 style="font-family: Arial, sans-serif; background: linear-gradient(to right, #ff69b4, #800080); -webkit-background-clip: text; color: transparent;">
+  <h1 style="font-family: 'Lobster', cursive; background: linear-gradient(to right, #ff69b4, #800080); -webkit-background-clip: text; color: transparent;">
     Hello, I'm Rishitha!
   </h1>
 </div>
