@@ -14,6 +14,11 @@ Java | Python | C | C++ | SQL | HTML | CSS | JavaScript | Full Stack Web Develop
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rishitha2811&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
+<div align="center">
+  <h1 style="font-family: Arial, sans-serif; color: #4CAF50;">
+    Hello, I'm Rishitha!
+  </h1>
+</div>
 
 ## Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=rishitha2811)
