@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-family: cursive, sans-serif; color: #dc143c;">
+  <h1 style="font-family: cursive, sans-serif; color: pink;">
     Hello, I'm Rishitha!
   </h1>
 </div>
