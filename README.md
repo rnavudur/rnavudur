@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: #4CAF50; font-family: Arial, sans-serif;">
+  <h1 style="font-family: Arial, sans-serif; background: linear-gradient(to right, #ff69b4, #800080); -webkit-background-clip: text; color: transparent;">
     Hello, I'm Rishitha!
   </h1>
 </div>
