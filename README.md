@@ -14,9 +14,10 @@ Java | Python | C | C++ | SQL | HTML | CSS | JavaScript | Full Stack Web Develop
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rishitha2811&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
-## 🌟 Visitors
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Rishitha2811.Rishitha2811)
 
-## 👩🏻‍💻</> Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/rishitha2811/github-readme-stats)
+## Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=rishitha2811)
+
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishitha2811&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
