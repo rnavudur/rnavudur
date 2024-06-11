@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-family: Arial, sans-serif; color: #4CAF50;">
+  <h1 style="font-family: Arial, sans-serif; color: #C25283;">
     Hello, I'm Rishitha!
   </h1>
 </div>
