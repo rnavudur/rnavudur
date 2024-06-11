@@ -1,6 +1,6 @@
 # Rishitha-N
 ## 🚀 About Me
-I'm a passionate developer...
+I'm a passionate developer.
 
 ## 📊 GitHub Stats
 
