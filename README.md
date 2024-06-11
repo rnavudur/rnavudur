@@ -1,9 +1,8 @@
 <div align="center">
-  <h1 style="font-family: cursive, sans-serif; color: pink;">
+  <h1 style="color: #4CAF50; font-family: Arial, sans-serif;">
     Hello, I'm Rishitha!
   </h1>
 </div>
-
 
 ## 🚀 About Me
 👩🏻‍🎓As a Master's student in Computer Science at the University at Buffalo, I bring a blend of academic excellence and hands-on experience, aiming to become a Software Developer/Engineer or AI Research Scientist. My journey in computer science started with a fascination for programming, evolving into a robust skill set and a passion for technology-driven innovation. 
