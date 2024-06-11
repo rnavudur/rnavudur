@@ -1,4 +1,9 @@
-# Hello, I'm <span style="font-family: Arial, sans-serif; color: pink;">Rishitha</span>!
+<div align="center">
+  <h1 style="font-family: Arial, sans-serif; color: #4CAF50;">
+    Hello, I'm Rishitha!
+  </h1>
+</div>
+
 
 ## 🚀 About Me
 👩🏻‍🎓As a Master's student in Computer Science at the University at Buffalo, I bring a blend of academic excellence and hands-on experience, aiming to become a Software Developer/Engineer or AI Research Scientist. My journey in computer science started with a fascination for programming, evolving into a robust skill set and a passion for technology-driven innovation. 
@@ -13,12 +18,6 @@ Java | Python | C | C++ | SQL | HTML | CSS | JavaScript | Full Stack Web Develop
 ![Rishitha2811's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishitha2811&show_icons=true&theme=ambient_gradient)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rishitha2811&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
-
-<div align="center">
-  <h1 style="font-family: Arial, sans-serif; color: #4CAF50;">
-    Hello, I'm Rishitha!
-  </h1>
-</div>
 
 ## Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=rishitha2811)
