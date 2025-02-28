@@ -3,7 +3,7 @@
 
 <div align="center">
   <!-- Adjust 'color', 'size', 'lines', and 'width' as you like -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=45&lines=Software+Engineer+%7C+ML+Enthusiast;AI+Researcher+%7C+Salesforce+Architect;Cloud+Architect+in+Training;Always+Learning+New+Things+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=45&lines=Software+Engineer+%7C+ML+Enthusiast;AI+Researcher+%7C+Salesforce+Architect;Software+Developer+;Always+Learning+New+Things+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 
@@ -66,21 +66,21 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=deekshithsagar73&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deekshithsagar73&theme=codeSTACKr&hide_border=false" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishitha2811&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishitha2811&theme=codeSTACKr&hide_border=false" height="180em" />
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshithsagar73&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishitha2811&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em" />
 
 </div>
 
 ---
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deekshithsagar73/deekshithsagar73/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deekshithsagar73/deekshithsagar73/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/deekshithsagar73/deekshithsagar73/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishitha2811/rishitha2811/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishitha2811/rishitha2811/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/rishitha2811/rishitha2811/output/github-snake.svg" />
   </picture>
 </div>
 
