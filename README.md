@@ -109,27 +109,4 @@
 ![Windows](https://img.shields.io/badge/Windows-%2317A8FF.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-%2371B4F2.svg?style=for-the-badge&logo=apple&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=rishitha2811&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishitha2811&theme=codeSTACKr&hide_border=false" height="180em" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishitha2811&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em" />
-
-</div>
-
----
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishitha2811/rishitha2811/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishitha2811/rishitha2811/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/rishitha2811/rishitha2811/output/github-snake.svg" />
-  </picture>
-</div>
 
