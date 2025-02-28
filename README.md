@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **AI/ML Grad** from University at Buffalo  
+- 🎓 **Computer Science- AI/ML Track Grad** from University at Buffalo - SUNY
 - 💼 **2+ Years** in Software Engineering & Backend Developer 
 - 🤖 **AI/ML Enthusiast**
 
