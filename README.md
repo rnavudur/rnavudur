@@ -42,7 +42,7 @@
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/nosql-%23316192.svg?style=for-the-badge&logo=nosql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/snowflake-%23FF1493.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+#![Snowflake](https://img.shields.io/badge/snowflake-%23FF1493.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 
 #### Frameworks/ Monitoring Tools
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
