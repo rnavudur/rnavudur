@@ -42,18 +42,15 @@
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/nosql-%23316192.svg?style=for-the-badge&logo=nosql&logoColor=white)
-#![Snowflake](https://img.shields.io/badge/snowflake-%23FF1493.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 
 #### Frameworks/ Monitoring Tools
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![XML](https://img.shields.io/badge/xml-%23FF0000.svg?style=for-the-badge&logo=xml&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Maven](https://img.shields.io/badge/maven-%232C3E50.svg?style=for-the-badge&logo=maven&logoColor=white)
 ![Microservices](https://img.shields.io/badge/microservices-%23000000.svg?style=for-the-badge&logo=microservices&logoColor=white)
 
 #### Big Data and Distributed Computing
@@ -86,10 +83,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/visual%20studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![PostMan](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0F1C.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Agile Methodologies](https://img.shields.io/badge/agile%20methodologies-%23FF1493.svg?style=for-the-badge&logo=agile&logoColor=white)
 
 #### Cloud Technologies
@@ -98,16 +92,7 @@
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 #### Gen AI
-![GPT-4](https://img.shields.io/badge/GPT%2D4-%23FF4500.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Llama 3](https://img.shields.io/badge/Llama%203-%23FF0000.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Claude 3.5](https://img.shields.io/badge/Claude%203.5-%23D50032.svg?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23D50032.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/rag-%23A9A9A9.svg?style=for-the-badge&logo=langchain&logoColor=white)
-
-#### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-%2317A8FF.svg?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-%2371B4F2.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 📊 GitHub Stats
 
