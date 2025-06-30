@@ -10,7 +10,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 **Computer Science- AI/ML Track Grad** from University at Buffalo - SUNY
-- 💼 **2 Years** in Full Stack Development
+- 💼 **3 Years** in Software Engineer- Full Stack
 - 🤖 **AI/ML Enthusiast**
 
 ---
