@@ -97,10 +97,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishitha2811&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishitha2811&theme=codeSTACKr&hide_border=false" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rnavudur&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rnavudur&theme=codeSTACKr&hide_border=false" height="180em" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishitha2811&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnavudur&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em" />
 </div>
 
 
